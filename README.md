@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 ## snake eating
+
 ![snake gif](https://github.com/SSzSun/SSzSun/blob/output/github-contribution-grid-snake.gif)
 
 ![Snake animation](https://github.com/SSzSun/SSzSun/blob/output/github-contribution-grid-snake.svg)
+-->
