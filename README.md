@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Hello. I'm Jaruphat Khenprom<br><br>- ⭐ I’m Student as KMITL</p>
+<p align="left">Hello. I'm Jaruphat Khenprom<br><br>- ⭐ I’m Student as KMITL s</p>
 
 ###
 
