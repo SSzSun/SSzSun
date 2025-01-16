@@ -76,10 +76,10 @@
 ###
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=SSzSun&show_icons=true&hide_border=false&theme=dark" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=SSzSun&show_icons=true&hide_border=false&theme=midnight-purple" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SSzSun&layout=compact&langs_count=8&card_width=320&hide_border=false&theme=dark&show_icons=true" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SSzSun&layout=compact&langs_count=8&card_width=320&hide_border=false&theme=midnight-purple&show_icons=true" />
   </a>
 </div>
 
