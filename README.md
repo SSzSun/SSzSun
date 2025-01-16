@@ -21,55 +21,53 @@
   <img src="https://img.shields.io/static/v1?message=SSzSun&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
-# About me 🌻
+## About me 🌻
 <p align="left">Hello. I'm Jaruphat Khenprom<br><b>Back-end Developer</b>: Outstanding ability Back-end In addition to strong technical skills, I excel in communication and collaboration within a team. I am enthusiastic, adaptable, open-minded, hardworking, good team player, capable of working effectively under pressure.<br>- ⭐ I’m Student as KMITL s</p>
 
-###
+## Language and tools ⭐
+### Programming, Commands & Tools
+  ![Bash](https://img.shields.io/badge/bash-%2300DC82?style=for-the-badge&logo=gnubash&logoColor=white)
+  ![Homebrew](https://img.shields.io/badge/Homwbrew-%23FBB040?style=for-the-badge&logo=homebrew&logoColor=black)
+  ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Node](https://img.shields.io/badge/Node-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+  ![NPM](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-<h2 align="left">Language and tools ⭐</h2>
+### Frontend Tech Stack
+  ![Nuxt](https://img.shields.io/badge/nuxt-%2300DC82?style=for-the-badge&logo=nuxt&logoColor=white)
+  ![Vue](https://img.shields.io/badge/vue-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+  ![Primevue](https://img.shields.io/badge/primevue-%2341B883?style=for-the-badge&logo=primevue&logoColor=white)
+  ![Tailwindcss](https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 
+### Backend Tech Stack
+  ![Express](https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Sequelize](https://img.shields.io/badge/sequelize-%2352B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+  ![Axios](https://img.shields.io/badge/axios-%235A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+### Databases
+  ![Postgresql](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Mariadb](https://img.shields.io/badge/mariadb-%23003545?style=for-the-badge&logo=mariadb&logoColor=white)
+  ![Mysql](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Languages
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### DevOps & CI/CD
+  ![Sonarqube](https://img.shields.io/badge/sonarqube-%234E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Utilities & Configurations
+  ![Dotenv](https://img.shields.io/badge/dotenv-%23ECD53F?style=for-the-badge&logo=dotenv&logoColor=white)
+  ![Eslint](https://img.shields.io/badge/eslint-%234B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+
+### Project Management
+  ![Jira](https://img.shields.io/badge/jira-%230052CC?style=for-the-badge&logo=jira&logoColor=white)
   
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  
-  ![Static Badge](https://img.shields.io/badge/Test%20OP-red?style=flat-square&logo=javascript&link=https%3A%2F%2Fgithub.com%2Fl2D%2Fl2D%2Fblob%2Fmaster%2FREADME.md)
-  
-</div>
+## Stats 🔥
 
-###
-
-<h2 align="left">Stats 🔥</h2>
-
-###
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=SSzSun&show_icons=true&hide_border=false&theme=midnight-purple" />
