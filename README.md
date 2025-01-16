@@ -2,8 +2,6 @@
   <img height="150" src="https://i.pinimg.com/originals/ee/6f/de/ee6fde84011911665995018f6ad74d82.gif"  />
 </div>
 
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/jaruphat-khenprom" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -23,20 +21,15 @@
   <img src="https://img.shields.io/static/v1?message=SSzSun&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
-###
-
-<h2 align="left">About me 🌻</h2>
-
-###
-
+# About me 🌻
 <p align="left">Hello. I'm Jaruphat Khenprom<br><b>Back-end Developer</b>: Outstanding ability Back-end In addition to strong technical skills, I excel in communication and collaboration within a team. I am enthusiastic, adaptable, open-minded, hardworking, good team player, capable of working effectively under pressure.<br>- ⭐ I’m Student as KMITL s</p>
 
 ###
 
 <h2 align="left">Language and tools ⭐</h2>
 
-###
-
+### 
+  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -67,8 +60,9 @@
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  ![TEST](https://img.shields.io/website?url=https%3A%2F%2Fshields.io&up_message=offline&style=flat-square)
-  ![Argo](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+  
+  ![Static Badge](https://img.shields.io/badge/Test%20OP-red?style=flat-square&logo=javascript&link=https%3A%2F%2Fgithub.com%2Fl2D%2Fl2D%2Fblob%2Fmaster%2FREADME.md)
+  
 </div>
 
 ###
