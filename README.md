@@ -67,6 +67,8 @@
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  ![TEST](https://img.shields.io/website?url=https%3A%2F%2Fshields.io&up_message=offline&style=flat-square)
+  ![Argo](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 </div>
 
 ###
