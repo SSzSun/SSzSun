@@ -35,6 +35,7 @@
   ![NPM](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ### Frontend Tech Stack
+  ![Angular](https://img.shields.io/badge/angular-%23CB3837?style=for-the-badge&logo=angular&logoColor=white)
   ![Nuxt](https://img.shields.io/badge/nuxt-%2300DC82?style=for-the-badge&logo=nuxt&logoColor=white)
   ![Vue](https://img.shields.io/badge/vue-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
   ![Primevue](https://img.shields.io/badge/primevue-%2341B883?style=for-the-badge&logo=primevue&logoColor=white)
