@@ -22,7 +22,7 @@
 </div>
 
 ## About me 🌻
-<p align="left">Hello. I'm Jaruphat Khenprom<br><b>Back-end Developer</b>: Outstanding ability Back-end In addition to strong technical skills, I excel in communication and collaboration within a team. I am enthusiastic, adaptable, open-minded, hardworking, good team player, capable of working effectively under pressure.<br>- ⭐ I’m Student as KMITL s</p>
+<p align="left">Hello. I'm Jaruphat Khenprom<br><b>Full-Stack Developer</b>: Outstanding ability Front-end and Back-end In addition to strong technical skills, I excel in communication and collaboration within a team. I am enthusiastic, adaptable, open-minded, hardworking, good team player, capable of working effectively under pressure.<br>- ⭐ I’m Student as KMITL s</p>
 
 ## Language and tools ⭐
 ### Programming, Commands & Tools
