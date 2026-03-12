@@ -12,9 +12,9 @@
   <a href="https://www.instagram.com/jrp.sun_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://leetcode.com/jrpsun_/" target="_blank">
+  <!-- <a href="https://leetcode.com/jrpsun_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=leetcode&logo=leetcode&label=&color=FF7300&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
-  </a>
+  </a> -->
 <!--   <a href="https://www.hackerrank.com/profile/jaruphat_sun" target="_blank">
     <img src="https://img.shields.io/static/v1?message=hackerrank&logo=hackerrank&label=&color=416D19&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a> -->
